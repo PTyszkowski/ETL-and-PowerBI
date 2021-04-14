@@ -1,0 +1,824 @@
+AirCarrierName;AirCarrierCode
+AB Aerolinea S.A d C.V;4O
+ABS  Aerolinha Brasileira S.A;M3
+AB Air Inc;GB
+AC Havayollar A.S;9T
+AEROFLOT-NOR;5N
+AH Ai Hon Kon Limite;LD
+AN  J Expres Co lt;9N
+AVIACSA-Consorci Aviaxsa S.A d C.V;6A
+AVIATECA S.A;GU
+Adri Airway  Th Airlin o Sloveni;JP
+Aegea Airline S.A;A3
+Aek Kula Inc DB Aloh Ai Carg;KH
+Ae Aran Expres;RE
+Ae Lingu Limite;EI
+Aer 200 S.A;4M
+Aer Airline A.S;EE
+Aer Contractor Nigeri Limite;AJ
+Aer Expres de Ecuado  Tran A;7T
+Aer Mongoli;M0
+Aer Regiona Paraguay S.A;P7
+Aer Republic S.A;P5
+Aerocaribbea S.A;7L
+Aerocomercia Orient Nort Ltd;A4
+Aeroflo  Carg;SU
+Aeroflo Russia Airline;SU
+Aeroflot-Do;D9
+Aerogaviot S.A;KG
+Aeroline Principa Chil S.A;5P
+Aerolinea Argentina;AR
+Aerolinea Austra Chil S.A;3I
+Aerolinea Galapago S.A Aeroga;2K
+Aerolinea Regionales S.A d C.;F2
+Aerolinea d Baleare AeBa;DF
+Aerolitora S.A d C.V;5D
+Aeromexic;AM
+Aeroperla;WL
+Aeroposta Ala d Venezuel C.A;VH
+Aerosu Paragua S.A;PQ
+Aerosvi Airline;VV
+Aerosyncr Aviatio A;6I
+Aerotransport d Carg Union S.A d ;6R
+Aerotransporte Ma d Carg;M7
+Aerovia Carib S.A d C.V;QA
+Aerovia de Continent American S.;AV
+Afric Wes;FK
+Afriqiya Airway;8U
+Aigl Azu;ZI
+Ai Algeri;AH
+Ai Almat JS;K7
+Ai Arabi;G9
+Ai Armeni;QN
+Ai Astan;KC
+Ai Atlant Icelandi;CC
+Ai Austra;UU
+Ai Baga Ltd;W9
+Ai Balti Corporatio SI;BT
+Ai Bashkortosta Ltd;ZU
+Ai Be S.p.;BM
+Ai Bissa Internationa Ld;YL
+Ai Botswan Corporatio;BP
+Ai Busa;BX
+Ai Caledoni;TY
+Ai Caledoni Internationa;SB
+Ai Canad;AC
+Ai Canad Jaz;QK
+Ai Caraibe;TX
+Ai Carg Carriers Inc;2Q
+Ai Chin Carg;CA
+Ai Come S.A;A7
+Ai Compan ITEK-AI Ltd;GI
+Ai Compan Somo Ai;4J
+Ai Continenta Afric;TI
+Ai Contractor (UK Limite;AG
+Ai Creebe (1994 Inc;YN
+Ai Dolomit S.p.A;EN
+Ai Dominican S.A;6D
+Ai Ecuado Airec S.A;N5
+Ai Europ Linea Aereas S.A;UX
+Ai Fij Ltd;PC
+Ai Finlan Ltd;OF
+Ai Franc;AF
+Ai G Airline S.A;4A
+Ai Greenlan A/;GL
+Ai Icelan (Flugfela Islands;NY
+Ai Indi Charter Limite;IX
+Ai Inui Ltd/Lte;3H
+Ai Ital S.p.A;I9
+Ai Jamaic;JM
+Ai Kory;JS
+Ai Kurf;7F
+Ai Line o Kuba;GW
+Ai Logistic L.L.C d/b/;L9
+Ai Maca Compan Limite;NX
+Ai Madagasca;MD
+Ai Malaw Limite;QM
+Ai Malt p.l.c;KM
+Ai Marshal Islands Inc;CW
+Ai Mascareigne Ltd;MV
+Ai Mauritiu;MK
+Ai Midwes;ZV
+Ai Mobilit Comman;MC
+Ai Moldov;9U
+Ai Namibi;SW
+Ai Nepa Internationa Pvt Ltd;XN
+Ai Ne Zealan Limite;NZ
+Ai Nex Co. Ltd;7A
+Ai Nippo Co Ltd;EL
+Ai Niugin Pt Limite;PX
+Ai Nort Charte an Trainun Ltd;4N
+Ai Nostru L.A.M.S.A;YW
+Ai On;AP
+Ai Pacifi Ltd;FJ
+Ai Philippine Corporatio;2P
+Ai Sain Pierr;PJ
+Ai Senega Internationa;V7
+Ai Seychelle Limite;HM
+Ai Sina;4D
+Ai Spee U;VP
+Ai Sylhe A;SL
+Ai Tahit;VT
+Ai Tahit Nu;TN
+Ai Tanzani Compan Ltd;TC
+Ai Tind Ltd;8T
+Ai Transa;TS
+Ai Transpor Internationa Lt;8C
+Ai Urg;3N
+Ai Vanuat (Operations Limite;NF
+Ai Vi Ltd;VL
+Ai Wisconsi Airline Corporatio;ZW
+Ai Zimbabw (Pvt Ltd;UM
+AirBridgeCarg Airline Limite;RU
+AirKeny Expres Limite;P2
+AirTra Airways Inc;FL
+Air Limite db Blu Island;SI
+Airasi Sd Bhd;AK
+Airasi  Sdn Bhd;D7
+Airbu Transpor Internationa;4Y
+Aircompan "Ese Air;K9
+Aircompan "Kyrgyzstan;QH
+Aircompan Asi Wing JS;Y5
+Aircompan Pole;YQ
+Airline o Papu Ne Guine Limite;CG
+Airma S.A;M8
+Akla Inc;6L
+Alajniha Fo Ai Transpor;2T
+Ala De Su S.R.;D4
+Alask Airline Inc;AS
+Alask Centra Expres;KO
+Albania Airline MA S.H.P.K;LV
+Alitalia-Compagni Aere Italian S.p.;AZ
+Al Nippo Airway Co Ltd;NH
+Allianc Ai;CD
+Allie Ai Ltd;4W
+Alpin Aviatio Inc;5A
+Amaszona S.A;Z8
+America Airline Inc;AA
+Ameriflight LL;A8
+Amerije Internationa Inc;M6
+Amir Fligh;MO
+Ande Linea Aerea S.A;OY
+Angko Airway Corporatio;G6
+Antra Ai Limite;O4
+Arcti Circl Ai Servic Inc;5F
+Arcti Transportatio Services Inc;7S
+Arian Afgha Airline;FG
+Ari Nige;Q9
+Arki  Israel Airline Lt;IZ
+Armavi;U8
+Arro Ai Inc;JW
+Arro Panama S.A;8A
+Asi Alph Airway;OD
+Asian Airline Inc;OZ
+Askar Aviatio (PVT Ltd;4K
+Asta Ai Carg;ER
+Astraeu Ltd;5W
+Astra Aviatio Ltd;8V
+Atlant-Soyu;7B
+Atlanti Airway Faro Island;RC
+Atlanti Southeas Airlines Inc;EV
+Atla Air Inc;5Y
+Atlasje Airline Inc;KK
+Atyra Au Jol;IP
+Augsbur Airway Gmb  Co K;IQ
+Aurign Ai Service Limite;GR
+Australia Ai Expres Pty Ltd;XM
+Austria Airlines Osterreichisch;OS
+Ave.co;2E
+Aviaco Zitotran Ai Compan JS;ZR
+Aviaenerg;7U
+Aviastar-T Co Aviacompan;4B
+Aviatio Services Ltd;FP
+Aviatio Starlin Inc;Q4
+Avien Aviatio (PVT Limite;Z3
+Avien Cameroo S.A;HC
+Avione d Orient C.A (AVIOR;9V
+Azerbaija Hav Yollar;J2
+Azte Worldwid Airline Inc;7A
+Azu Linha Aerea Brasileira;AD
+   Airline;JA
+B Cityflye Limite;CJ
+B Europea Limite t/ Openskie;EC
+BIMIN Islan Ai Inc;B9
+Bahamasai Holdings Limite;UP
+Bahrai Ai B.S.C;2B
+Bangko Airway Co Ltd;PG
+Bankai Inc;B4
+Baseop International Inc;3Y
+Bearski Lak ai service Ltd;JV
+Belavi;B2
+Bell Ai Compan;LZ
+Bellvie Airline Limite;B3
+Bemidj Aviatio Services Inc;CH
+Beni Gol Ai S.A;A8
+Bes Aviatio Ltd;5Q
+Bima Banglades Airline;BG
+Bismilla Airline;5Z
+Blu Dar Aviatio Ltd;BZ
+Blu Panoram Airline S.p.A;BV
+Blu Wing A;QW
+Blue O;KF
+Bluebir Carg;BF
+Brenda Airways LL;U5
+Bringe Ai Carg Tax Aere Ltd;E6
+Bri Ai;DB
+Britis Airway p.l.c;BA
+Britis Midlan Airway Ltd;BD
+Brussel Airline N.V;SN
+Bulgari Ai;FB
+Bura Ai Transpor (BRQ;UZ
+C.A.I Secon S.p.A;VE
+C.A.L Carg Airline Ltd;5C
+CEB Pacifi Ai;5J
+CEIB Intercontinenta S.A;C2
+CJS Airlin 40;WZ
+CONVIAS;V0
+CORSAI;SS
+Cal Ai Internationa Ltd;MO
+Canadia Nort Inc;5T
+Capita Carg Internationa;PT
+Capite Limite db AIRNORT;TL
+Carg  Airline;BB
+Cargoitali S.p.A;2G
+Cargoje Airway Ltd;W8
+Cargolu Airline Internationa S.A;CV
+Cari Aviatio Limite;3Q
+Caribbea Airline Limite;BW
+Caspia Airline Servic Compan Ltd;RV
+Catai Linea Aerea S.A.(Clickai S.A.;XG
+Catha Pacifi Airway Ltd;CX
+Cayma Airway Limite;KX
+Centra Mountai Ai Ltd;9M
+Centurio Ai Cargo Inc;WE
+Cetrafrriqu Ai Expres (C.A.E.;6C
+Champlai Enterprise Inc;C5
+Chautauqu Airline Inc;RP
+Chin Airline;CI
+Chin Carg Airline Ltd;CK
+Chin Easter Airline;MU
+Chin Posta Airline Ltd;8Y
+Chin Souther Airline;CZ
+Chin Unite Airline;KN
+Chin Wes Ai Co Ltd;PN
+Chongqin Airline Co Lt;OQ
+Cielo de Peru S.A;A2
+Cielo de Su S.A;AU
+Cimbe Ai A.S;QI
+Cit Airlin A;CF
+Cityje;WX
+Citylin Hungar Kf;ZM
+Clic Airway;C4
+Close Join Stoc Compan;C7
+Colga Ai;9L
+Comai Ltd;MN
+Comair Inc;OH
+Compagni Aerienn Cors;XK
+Compagni Aerienn d Mal S.A;I5
+Compani Bolivian d Transport Aere;5L
+Compani Mexican d Aviacio;MX
+Compani Panamen d Aviacion S.A;CM
+Compas Airline Inc;CP
+Concesionari Vuel Compani D Aviacio;Y4
+Condo Flugdiens Gmb;DE
+Contact-Ai Flugdiens Gmb  Co K;C3
+Continenta Airlines Inc;CO
+Continenta Micronesia Inc;CS
+Corporat Ai Charters Inc;7V
+Cosmi Ai Pvt Ltd;F5
+Coyn Airway Lt;7C
+Croati Airline;OU
+Cuban d Aviacio S.A;CU
+Custo Ai Transport Inc;5R
+Cypru Airway Limite;CY
+Czec Airline a.s. CS;OK
+DH Aer Expres S.A;D5
+DH Ai Limite;D0
+DH Internationa B.S.C   ;ES
+DH d Guatemal S.A;L3
+Daall Airline;D3
+Daghesta Airline;N2
+Dalavi  Fa Eas Airway Khabarovs;H8
+Dan Airline Limite;9J
+Danis Ai Transpor;DX
+Darwi Airlin S Lugan;0D
+Dee Je Co Ltd;JD
+Delt Ai Line Inc;DL
+Deutsch Lufthans A;LH
+Dnieproavi  Join Stoc Aviatio Co;Z6
+Dolphi Ai;ZD
+Domodedov Airline;E3
+Dru Ai Corporatio Ltd;KB
+Dutc Antille Expres B.V;9H
+EV Airway Corporatio;BR
+Eas Africa Safar Ai Expres Ltd;B5
+Edelweis Ai A;WK
+Egyptai;MS
+E A Israe Airline Ltd;LY
+E So d Americ;6S
+Elysai S.A.S;A0
+Emirate;EK
+Empir Airline;EM
+Er Aviation Inc;7H
+Eritrea Airline;B8
+Estafet Carg Aerea S.A d C.;E7
+Estonia Ai;OV
+Ethiopia Airline Enterpris;ET
+Etiha Airway;EY
+Euro-Asi Internationa JS;5B
+Eurocypri Airline Ltd;UI
+Eurofl S.p.A;GJ
+Eurolin;4L
+Europea Ai Transpor N.V;QY
+Eurowing A;EW
+Evergree Helicopter Internationa Inc;7E
+Evergree Internationa Airline Inc;EZ
+Execair;MB
+Exploit Valle Ai Service;8K
+Exp Aviatio (Pvt Limite;8D
+ExpressJe Airlines Inc;XE
+Ezni Airway Co Ltd;ZY
+Falco Expres Carg Airline;FC
+Far Qesh Airline;QE
+FedE;FX
+Federa Stat Unitar Enterpris "ST;FV
+Feli Airway;FO
+Finnai Oy;AY
+Firs Ai;7F
+Fiv Fourt Aviatio Limite;5H
+Florid Wes Internationa Airways Inc;RF
+Fl Excellen;F3
+FlyFirefl Sdn Bh;FY
+FlyLAL-Lithuania Airline;TE
+Flyb Limite;BE
+Flyin Carpe Ai Transpor  Service;7Y
+Fou Sta Aviatio;HK
+Friendshi Airway;Y0
+Frontie Airlines Inc;F9
+Frontie Flyin Service Inc;2F
+Futur Gae;F6
+G Airway Ltd;GT
+GM Airline Ltd;Z5
+Gabo Airline;GY
+Gabo Airline Carg;6G
+Gadai Europea Airline;GP
+Gambi Internationa Airline Ltd;GC
+Garud Indonesi;GA
+Gazpromavi Aviatio Compan Ltd;4G
+Georgia Airway;A9
+Georgia Nationa Airline;QB
+Gestai S.A;G5
+Ghan Internationa Airline Ltd;G0
+Globespa Airway Limite;Y2
+Globu LL;GH
+G On Airway;GK
+GoJe Airline LL;G7
+Gran Chin Ai Co  Ltd;CN
+Gran Chin Expres Co Ltd;GS
+Grandsta Carg Internationa Airline;GD
+Grea Lake Aviatio Ltd;ZK
+Grea Wal Airline Compan Limite;IJ
+Gromo Fligh Researc Institut Airlin;3R
+Gul  Caribbea Cargo In;IF
+Gul Ai Compan G.S.C;GF
+Gulfstrea Internationa Airlines Inc;3M
+HM Airway Inc;HQ
+Hah Ai Line;HR
+Haina Airline Compan Limite;HU
+Hamsa Ai Service Limite;2H
+Hapa Lloy Fluggesellschaf;HF
+Hawai Islan Air Inc;WP
+Hawaiia Airlines Inc;HA
+Heavylif Carg Airline Pty Limite;HN
+Hel Ai Monac;YO
+Helije Internationa Inc;JB
+Helitran A;9I
+Helleni Imperia Airway;HT
+Hell A;HW
+Hemu Ai;DU
+Hew Bor Airway;EO
+H Fl Transporte Aereos S.A;5K
+Highlan Airway Limite;8H
+Hokkaid Int' Airline Co. Ltd;HD
+Home Ai Inc;HB
+Hon Kon Airline Limite;HX
+Hon Kon Drago Airline Limite;KA
+Hon Kon Expres Airway Limite;UO
+Horizo Ai;QX
+IB Airways Inc;II
+IH Izmi Havayollar A.S;4I
+IMAI Airlin;IK
+Iberi  Linea Aerea d Espan;IB
+Icar S.A;X8
+Icelandai;FI
+Indochin Airline;IO
+Industrieflu IP;I2
+Inse Ai Internationa B.V;7I
+Inte Expres Hav Tasimacili A.S;6K
+Inte Glob Aviatio Privat Limite;6E
+Inter-Aviatio Service;D6
+InterSk Luftfahr Gmb;3L
+Interavi Airline;ZA
+Interlin Airline (Pty Ltd;ID
+Internationa Ai Carg Company(LoadAir;L8
+Interstat Airline B.V;I4
+Ira Ai;IR
+Ira Asema Airline;EP
+Iraq Airway;IA
+Islan Aviatio Service Ltd;Q2
+Islen d Inversione S.A d C.V;WC
+Israi Airline an Touris Ltd;6H
+Ivoirienn D Transpor Aerie;I3
+JA Expres;JC
+JALway Co Ltd;JO
+JE AI Spolk  o.o;O2
+JS "Aircompan SCAT;DV
+JS "KAP Avia;G7
+JS "Starline.kz;DZ
+Jad Carg Internationa Compan Limite;JI
+Japa Airline Internationa Co. Ltd;JL
+Japa Transocea Ai Co Ltd;NU
+Ja Airway;JU
+Je  Yo;8J
+Je Airway (India Limite;9W
+Je Airway Inc;QJ
+Je Aviatio Busines Jet A;PP
+Je Lin Expres Ltd;J0
+Je Lit (India Limite;S2
+Jet2.co Limite;LS
+JetClu A;0J
+Jet ehf (Primer Air;GX
+Jetsta Asi Airway Pt Lt;3K
+Jetsta Pacifi Airline;BL
+Jett Airline Carg Pt Ltd;JX
+Jo Ai s.r.o;3B
+Join Stoc Compan  Ai Compan;DW
+Join Stoc Compan "Omskavia Airline;N3
+Join Stoc Compan Aircompan "Yakutia;R3
+Join Stoc Compan SIA (Sibaviatrans;5M
+Joint Stoc Compan "Sakhalinski;HZ
+Jorda Aviatio;R5
+Jorda Internationa Ai Carg;J4
+Jubb Airway;6J
+Juneya Airline Co, Ltd;HO
+K-Mil Ai Co Lt;8K
+K Avi Ope Join Stoc Compan;KD
+KL Cityhoppe;WA
+KL Roya Dutc Airline;KL
+Kalitt Air LL;K4
+Kalitt Charter II LL;CB
+Ka Ai;RQ
+Kampuche Airline;E2
+Kenosh Aero Inc db Allianc Airline;3A
+Keny Airway;KQ
+Ke Lim Ai Corporatio;KG
+Kibri Tur Hav Yollar;YK
+Kingfishe Airline Limite;IT
+Kis Airline;Y9
+Kitt Haw Aircargo Inc;KR
+Korea Ai Line Co Ltd;KE
+Kunmin Airline;KY
+Kunpen Airline Co. Lt;VD
+Kuwai Airway;KU
+Kuz Airline Carg;GO
+L.A.B Flyin Servic Inc;JF
+LA  Linha Aerea d Mocambiqu;TM
+LIA (1974 Ltd;LI
+LO  Polis Airline;LO
+LT Internationa Airway S.A;XO
+LT Internationa Airway;LT
+Labrado Airway Limite;WJ
+Lagu Ai;N7
+La Airline S.A;LA
+La Chil Carg S.A;UC
+La Ecuado  Aerolan Linea Aerea;XL
+La Per S.A;LP
+LankAi Privat Limite;IL
+La Airline;QV
+Laparka Airways Inc;LE
+Laud Ai Luftfahr A;NG
+Libya Airline;LN
+Ligne Aerienne Congolaise;4V
+Limite Liabilit Compan;7D
+Line Aere Carguer d Colombi S.A;L7
+Line Aere d Servici Ejecutiv;QL
+Linea Aerea Costarricense S.A;LR
+Linkai Expres S.p.;6M
+Livingsto S.p.A;LM
+Luck Ai Co Ltd;8L
+Lufthans Carg A;LH
+Lufthans CityLin Gmb;CL
+Lufttranspor A;L5
+Luxai;LG
+Lvi Airline;5V
+Lynde Ai Cargo LL;L2
+MDL Airline Pvt Ltd;9Y
+MIA  Mongolia Airline;OM
+M Airline Limite;7G
+M Airline LL;SY
+MN Airline Carg;MB
+M Line;XV
+MYAIR.co;8I
+Macai Je S.A;VM
+Macedonia Airlne;IN
+Maha Airline;W5
+Malaysi Airlin Syste Berha;MH
+Male Hungaria Airline Limite;MA
+Mandari Airline Ltd;AE
+Martinai Hollan N.V;MP
+Mauritani Airway;YD
+Me Vie Airline (NIG Ltd;VL
+Mediterranea Aviatio Compan Ltd;N5
+Mercur Ai Cargo Inc;4X
+Meridian Africa Airline (U Limite;U7
+Meridian S.p.A;IG
+Merpat Nusantar Airline;MZ
+Mes Airlines Inc;YV
+Mesab Aviatio Inc;XJ
+Mi Asi Airline Limite;BH
+Middl Eas Airline AirLiba;ME
+Mide Airline;MG
+Midwes Airline Inc;YX
+Mihi Lank (Pvt Ltd;MJ
+Mistra Ai S.r.l;7M
+Mokulel Fligh Servic;MW
+Moldavia Airline;2M
+Monarc Airline;ZB
+Montenegr Airline;YM
+Motor-Sic JS;M9
+Mountai Ai Carg Inc;C2
+Murra Ai Inc;N8
+MyTrave Airway Limite;VZ
+Myanm Airway;UB
+Myanma Airway Internationa;8M
+NACIL db Ai Indi;AI
+NACIL db India Airline;IC
+NOV Airline;O9
+Nasai;UE
+Nationa Airway Cameroo;9O
+Naur Ai Corporatio;ON
+Nays;ZN
+Nayza Ai Transpor Compan;M4
+Neo S.P.A;NO
+Ne Axi Airway;9X
+Nippo Carg Airline;KZ
+Nordi Airlin Holdin A db flynordi;LF
+Nort America Airlines Inc;NA
+Northeaster Airline Co Ltd;NS
+Norther Ai Cargo Inc;NC
+Northwes Airlines Inc;NW
+Northwester Ai Leas Ltd;J3
+Norwegia Ai Shuttl A.S;DY
+Nov Airline A;N9
+OLT-Ostfriesisch Lufttranspor Gmb;OL
+OO "Atra ;V8
+Oceanai Linha Aerea Ltda;O6
+Oka Airway Compan Limite;BK
+Olympi Airline;OA
+Oma Ai (SAOG;WY
+On Tw G Airline Co Ltd;OG
+Onu Havayollar Tasimacili A.S;8Q
+Operado Aere Andalu S.A;EA
+Orenbur Airline Federa Stat;R2
+Orien Tha Airline;OX
+Overlan Airway Limite;OJ
+OzJe Airline Pt Lt;O7
+P Ai Compan Limite;9Q
+P Cardi Ai;8F
+P Republi Expres Airline;RH
+PT Indonesi Ai Transport Tb;I8
+PT Indonesi AirAsi;QZ
+PT Megantar Ai;9M
+PT Sriwijay Ai;SJ
+Pacifi Airway Inc;3F
+Pacifi Eas Asi Carg Airlines Inc;Q8
+Pacifi Wings L.L.C;LW
+Pa Wes Airline Inc;P8
+Pakista Internationa Airline;PK
+Pala Asi Pacifi Ai Inc;0P
+Pala Nationa Airline;9P
+Pa A Worl Airway Dominican;7Q
+Paramoun Airway Pvt Ltd;I7
+Pasca Aviatio Inc;P6
+Pegasu Hav Tasimacilig A.S;H9
+Penai;KS
+Philippin Airlines Inc;PR
+Piedmon Airlines Inc;US
+Pinnacl Airline Inc;9E
+Platniu Ai Linha Aerea Ltda;P2
+Pola Ai Carg Worldwide Inc;PO
+Pola Airline d Mexic S.A d C.V;M4
+Porte Airline Inc;PD
+Portugali  Companhi Portugues d;NI
+Premie Tran Air Inc;3X
+Prescot Suppor Compan;PM
+Primari Airlines Inc;FE
+Primera Linea Uruguaya d Navegacio;PU
+Progres Multitrad Co. Ltd;U4
+Propilot Inc;F3
+Provincia Airline;PB
+Puert Ric Ai Managemen Servic Inc;2P
+Pullmantu Ai;EB
+Qanta Airway Ltd;QF
+Qata Airways(Q.C.S.C;QR
+RACS Airline;R6
+RA Airway;RT
+REGIONA EXPRES PT LIMITE;ZL
+Redemptio Inc;2O
+Regiona Ai Line;FN
+Regiona Compagni Aerienn Europeenn;YS
+Romania Aviatio Compan;WQ
+Roya Ai Maro;AT
+Roya Airway Limite;SG
+Roya Brune Airline Sdn Bhd;BI
+Roya Dais Airline;6D
+Roya Falco;RZ
+Roya Jordania;RJ
+Roya Nepa Airline Corporatio;RA
+Ruta Aereas C.A RUTAC;RM
+Rwandai Expres;WB
+Rya Internationa Airline;RD
+Ryanai Ltd;FR
+S Airlin;4Z
+SA Scandinavia Airline Norg A;BU
+SAT  Ai Acore;SP
+SAT Internationa Servico ;S4
+SEVENAI S.A;UG
+SO S.A Linea Aerea;8R
+SWIF AIR,L.L.C;Q7
+SWIS Internationa Ai Line Lt;LX
+Safai (Proprietary Ltd;FA
+Saf Airway Ltd;4Q
+Sam Ai LL;S8
+Sam Airway Ltd;ZS
+Samar Airline;E5
+Saud Arabia Airline;SV
+Sayakha Airline;W7
+Scandinavia Airline Syste (SAS;SK
+Sceni Airlines Inc;YR
+Servicio Aereo Nacionale S.A;RZ
+Shahee Ai Internationa;NL
+Sha Wing Airline;6Q
+Shandon Airline;SC
+Shangha Airline Carg Internationa;F4
+Shangha Airline Co Ltd;FM
+Shenzhe Airline;ZH
+Shenzhe Dongha Airline Co. Lt;J5
+Shu Tak-Chin Trave Shi Mgmt Ltd;8S
+Shuttl Americ;S5
+Siberi Airline;S7
+Sichua Airline Co Ltd;3U
+Sie Rea Airway Internationa;FT
+Sil Wa Airline;ZP
+SilkAi (S Pte Ltd;MI
+Singapor Airline Carg Pte Ltd;SQ
+Singapor Airline Limite;SQ
+Sk Ai Worl Pt Lt;S9
+Sk Expres;XW
+Sk Expres S.A;GQ
+Sk Gabo S.A;GV
+Sk Je Aviatio Lt;UQ
+Sk Servic S.A db Sk Airlin;H2
+Sk Wa Enterprise Inc;KI
+SkySta Airway Compan Limite;XT
+SkyWes Airline;OO
+Skybu Airlines LL;SX
+Skymar Airline Inc;BC
+Skyne Asi Airway Co. Ltd;LQ
+Skyservic Airline Inc;5G
+Skyway A;JZ
+Skywes Airline Pty Ltd;XR
+Socieda Aeronautic d Medelli;MM
+Societ D Transpor D L'Archipe;OG
+Societ Nouvell Ai Ivoir;VU
+Sola Cargo C.A;4S
+Solomo Airline;IE
+Sout Africa Airway;SA
+South-Eas Europea Airline;G2
+Souther Ai Inc;9S
+Southwes Airline Co;WN
+Spanai S.A;JK
+Spiri Airline;NK
+Sprin Airline Limite Corporatio;9C
+SriLanka Airline Limite;UL
+Sta Ai A/;S6
+Sta Equatoria Airline;2S
+Sta U S.A;2I
+Starligh Airlin;QP
+Sterlin Airline A/;NB
+Suda Airway Co Ltd;SD
+SunExpres;XQ
+Sunwin Airline Inc;WG
+Surina Airway Ltd;PY
+Swiftai;7J
+Syria Ara Airline;RB
+TAA  Linha Aerea d Angol;DT
+TAC Cost Ric Socieda Anonim;TI
+TA  Transporte Aereo de;PZ
+TA Linha Aerea S.A;JJ
+TAM Line Aere de Ecuado;EQ
+TA  Ai Portuga;TP
+TARO  Transporturil Aerien Roman;RO
+TN Airway S.A;3V
+TRI Transport Aereo Regionai D;T4
+TU Airline Nederlan B.V;OR
+TUIfl Nordi A;6B
+Tac Internationa Airlines S.A;TA
+Ta Linha Aerea S.A;R9
+Tande Aer Ltd;TQ
+Tasma Carg Airline PT LT;HJ
+Tatarsta JS Aircompan;U9
+Tatondu Outfitter Limited;3Z
+Tax Fl Grou S.A;P5
+Tbilaviamshen;L6
+Tha AirAsi Co. Ltd;FD
+Tha Airway Internationa Publi;TG
+Thoma Coo Airline Scandinavi A/;DK
+Thoma Coo Airline U.K Limite;MT
+Thomso Airway Limite;BY
+Tiar Ai N.V;3P
+Tita Airway Limite;ZT
+Touma Ai Tcha;9D
+Trad Ai Ltd;8P
+Tradewind Airline Inc;WI
+Tran Ai Beni;N4
+Tran America Airlines S.A TAC PER;T0
+Tran State Airlines Inc;AX
+TransAsi Airway Corporatio;GE
+Transaer Airline;UN
+Transavi Airline;HV
+Transaviaexpor Carg Airlin;AL
+Transcarg Int' Airways C.A;T9
+Transmil Ai Service Sdn Bhd;TH
+Transpor Afric;9K
+Transport Aere S.A;LU
+Transporte Aereo Cielo Andino S.A.C;9P
+Transporte Aereo Mercantile;QT
+Transporte Aereo d Cab Verd;VR
+Transporte Aeromar S.A d C.V;VW
+Tras Aer;S5
+Tunc Havacili A.S BestAi;5F
+Tunisai;TU
+Tura Ai Airlin Compan;3T
+Turkis Airline Inc;TK
+Turkmenista Airline;T5
+Turk Ai;6T
+Turkua Airline;HK
+Tyrolea Airway Tirole Luftfahr Gmb;VO
+UN Airway Corporatio;B7
+UP;5X
+U Airways Inc;US
+US Je Airlines Inc;UJ
+UTai Aviatio Joint-Stoc Compan;UT
+Ukrain Internationa Airline;PS
+Ukrainia Mediterranea Airline Ltd;UF
+Unite Airlines Inc;UA
+Unite Airway Banglades Lt;4H
+Unite Eagl Airline C Lt;EU
+Universa Airways Inc;UV
+Ura Airline;U6
+Utai  Expres Limite Compan;UR
+Uzbekista Hav Yullar ;HY
+VI Airline;NN
+VR Linha Aerea S.A;G3
+Valuai Ltd;VF
+Va Ai Europe a.s;6Z
+Vari Logistic S/;LC
+Venseca Internaciona C.A;V4
+Vietna Ai Servic Compan;0V
+Vietna Airline Corporatio;VN
+Vi Air spol S.r.;V5
+Virgi Americ Inc;VX
+Virgi Atlanti Airway Limite;VS
+Virgi Blu Airline Pt Lt;DJ
+Virgi Blu Internationa Airline;VA
+Virgi Nigeri Airway;VK
+Viv Maca Limite;ZG
+Vladivosto Ai JS;XF
+Volga-Dnep Airlin Join Stoc;VI
+Voyage Airline Lt;V6
+Webje Linha Aerea S/;WH
+Wes Coas Ai;8O
+WestJe;WS
+Wideroe' Flyveselska A.S;WF
+Win Ros Aviatio Compan;7W
+Windwar Island Airway Int' N.V;WM
+Wing Ai;IW
+Woodgat Executiv Ai Charte U Ltd;3W
+Worl Airway;WO
+Worldwid Je Charte L.L.C;T8
+X Airway Franc;SE
+Xiame Airline;MF
+Yama Airline;YC
+Yangtz Rive Expres Airline Compan;Y8
+Yemeni  Yeme Airway;IY
+Zambez Airline;ZJ
+Zambi Skyway Ltd;K8
+Zambia Airway;Q3
+Zoo Airline Inc;Z4
+Zoo Airway Limite;3Z
+join stoc compan Avio Expres;X9
+Unknow Canadia Airlin;*c
+Unknow Foreig Airlin;*f
+Unknow U Airlin;*u
+Aircraf Unde Thei Ow Powe;*
